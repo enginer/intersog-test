@@ -74,9 +74,9 @@ public class Helper {
             distance = new Distance();
             distance.setCity1Id(city1.getId());
             distance.setCity2Id(city2.getId());
-            distance.setValue(distanceValue);
-            mo.save(distance);
         }
+        distance.setValue(distanceValue);
+        mo.save(distance);
 
         return distance;
     }

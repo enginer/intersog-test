@@ -1,5 +1,8 @@
 package com.intersog.test.model;
 
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+
 /**
  * Created with IntelliJ IDEA.
  * User: yurec
@@ -7,8 +10,9 @@ package com.intersog.test.model;
  * Time: 13:13
  * To change this template use File | Settings | File Templates.
  */
+@Document
 public class Distance {
-
+    @Id
     private String id;
     private double value;
     private String city1Id;
