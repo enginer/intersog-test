@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="11a38370-dc7b-4cb7-9dd6-887dc753e90e" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\projects\tmp\intersog-test\.idea\libraries\Java_EE_6_Java_EE_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\tmp\intersog-test\src\main\java\com\intersog\test\model\User.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/intersog-test.iml" afterPath="$PROJECT_DIR$/intersog-test.iml" />
     </list>
     <ignored path="SpringExample.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,30 +60,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="WebTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/intersog/test/WebTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="46" selection-start="2023" selection-end="2023" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindServlet.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/intersog/test/FindServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="34" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Helper.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/intersog/test/Helper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="61" selection-start="826" selection-end="839" vertical-scroll-proportion="0.48531953">
+            <state line="77" column="8" selection-start="2567" selection-end="2567" vertical-scroll-proportion="0.7312187">
               <folding />
             </state>
           </provider>
@@ -117,8 +90,10 @@
       <file leaf-file-name="Distance.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/intersog/test/model/Distance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="19" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="14" column="7" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,18 +102,6 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/intersog/test/model/City.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="12" column="9" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mongo-config.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mongo-config.xml">
-          <provider editor-type-id="com.intellij.spring.perspectives.SpringBeansStructureEditorProvider">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="72" selection-start="765" selection-end="765" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -161,7 +124,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/intersog/test/model/City.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/intersog/test/DataBaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/intersog/test/BasicCRUDTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/intersog/test/model/Distance.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/intersog/test/AppTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/intersog/test/InputServlet.java" />
         <option value="$PROJECT_DIR$/src/webapp/WEB-INF/web.xml" />
@@ -169,10 +131,11 @@
         <option value="$PROJECT_DIR$/src/test/java/com/intersog/test/Helper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/intersog/test/InsertServlet.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/intersog/test/DatebaseTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/intersog/test/Helper.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/intersog/test/HelperTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/intersog/test/FindServlet.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/intersog/test/WebTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intersog/test/model/Distance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/intersog/test/Helper.java" />
       </list>
     </option>
   </component>
@@ -279,6 +242,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intersog-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intersog-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -791,11 +780,16 @@
       <created>1352197948690</created>
       <updated>1352197948690</updated>
     </task>
+    <task id="LOCAL-00001" summary="some minor corrections">
+      <created>1352221262396</created>
+      <updated>1352221262396</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="-8" width="1318" height="784" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -808,16 +802,16 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.67147434" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24960127" sideWeight="0.67147434" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24960127" sideWeight="0.67147434" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -860,7 +854,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="some minor corrections" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -873,6 +867,7 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="some minor corrections" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -961,31 +956,6 @@
         <state line="21" column="38" selection-start="674" selection-end="745" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/intersog/test/HelperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="92" selection-start="1443" selection-end="1443" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/intersog/test/model/Distance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="19" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/intersog/test/model/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="9" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mongo-config.xml">
-      <provider editor-type-id="com.intellij.spring.perspectives.SpringBeansStructureEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="72" selection-start="765" selection-end="765" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/intersog/test/WebTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="46" selection-start="2023" selection-end="2023" vertical-scroll-proportion="0.0">
@@ -1000,9 +970,38 @@
         <state line="28" column="34" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mongo-config.xml">
+      <provider editor-type-id="com.intellij.spring.perspectives.SpringBeansStructureEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="72" selection-start="765" selection-end="765" vertical-scroll-proportion="0.059925094">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intersog/test/model/City.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="9" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/intersog/test/HelperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="92" selection-start="1443" selection-end="1443" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/intersog/test/model/Distance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="7" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/intersog/test/Helper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="61" selection-start="826" selection-end="839" vertical-scroll-proportion="0.48531953">
+        <state line="77" column="8" selection-start="2567" selection-end="2567" vertical-scroll-proportion="0.7312187">
           <folding />
         </state>
       </provider>
